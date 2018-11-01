@@ -10,7 +10,7 @@ Coming soon!
 
 ## Contributing
 
-Pull requests are welcome. For feature requests/bug reports, please file an <a href="https://github.com/MukaiGuy/InMap/issues" />
+Pull requests are welcome. For feature requests/bug reports, please file an [issue](https://github.com/MukaiGuy/InMap/issues).
 
 
 ## Gallery
